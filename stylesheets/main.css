@@ -1,0 +1,43 @@
+.Top {
+    background-color: #AA0000;
+    font-weight: bold;
+    font-family: Helvetica;
+    color: white;
+    padding: 15px;
+    font-size: xx-large;
+}
+.login {
+    font-size: small;
+    float: right;
+    padding-top: 10px;
+    color: white;
+}
+.Middle {
+    background-color: #333333;
+    font-family: Helvetica;
+    color: white;
+    padding: 15px;
+    font-size: small;
+    padding-bottom: 20px;
+}
+ul {
+    float: right;
+}
+li {
+    display: inline
+}
+body {
+    background-color: white;
+}
+span main {
+    text-align: left;
+}
+span column{
+    text-align: right;
+}
+footer {
+    background-color: #333333;
+    font-size: small;
+    color: white;
+    padding-block: 20px;
+}
