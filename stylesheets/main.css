@@ -4,17 +4,18 @@ header {
     font-family: Helvetica;
     color: white;
 }
-myheader a {
+#myheader a {
     font-size: xx-large;
     text-align: left;
 }
-myheader b {
+#myheader b {
     font-size: small;
     text-align: right;
 }
-mynav {
+#mynav {
     background-color: #333333;
 }
 body {
     background-color: white;
+    text-align: left;
 }
