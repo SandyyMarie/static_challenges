@@ -17,5 +17,10 @@ header {
 }
 body {
     background-color: white;
+}
+span main {
     text-align: left;
+}
+span column{
+    text-align: right;
 }
