@@ -1,7 +1,18 @@
 header {
     background-color: #AA0000;
+    font-weight: bold;
+    font-family: Helvetica;
+    color: white;
 }
-nav {
+myheader a {
+    font-size: xx-large;
+    text-align: left;
+}
+myheader b {
+    font-size: small;
+    text-align: right;
+}
+mynav {
     background-color: #333333;
 }
 body {
