@@ -8,7 +8,9 @@ header {
 }
 .login {
     font-size: small;
-    text-align: right;
+    float: right;
+    padding-top: 10px;
+    color: white;
 }
 #mynav {
     background-color: #333333;
